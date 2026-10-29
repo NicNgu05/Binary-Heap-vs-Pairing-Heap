@@ -91,7 +91,7 @@ Results (median over 30 sources, ms)
     Northeast (synthetic)    312.690   499.621   1.60
     Great Lakes (synthetic)  598.264   997.565   1.67
 
-A was faster on all six graphs. The report has the analysis.
+A was faster on all six graphs.
 
 Hardware: AMD Ryzen 5800X (8 cores), 32 GB DDR4-3200, Windows 10 with Ubuntu 24.04 (WSL), g++ 13.3.0.
 
